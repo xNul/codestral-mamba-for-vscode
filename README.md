@@ -10,7 +10,7 @@ Now let's get started!
 ### Setup
 
 Prerequisites:
-- [Download and run Codestral Mamba with mistral-inference](https://huggingface.co/mistralai/mamba-codestral-7B-v0.1) (Ref [1](https://colab.research.google.com/drive/1aHH4PW4eBU_R4R8pQ9BuYeOeMTiA98NF?usp=sharing#scrollTo=KWz9SwHXUfi-) & [2](https://github.com/mistralai/mistral-inference/releases) & [3](https://github.com/mistralai/mistral-inference/issues/192#issuecomment-2234242452))
+- [Download and run Codestral Mamba with mistral-inference](https://huggingface.co/mistralai/mamba-codestral-7B-v0.1) (Ref [1](https://colab.research.google.com/drive/1aHH4PW4eBU_R4R8pQ9BuYeOeMTiA98NF?usp=sharing#scrollTo=KWz9SwHXUfi-) & [2](https://github.com/mistralai/mistral-inference/releases/tag/v1.2.0) & [3](https://github.com/mistralai/mistral-inference/issues/192#issuecomment-2234242452))
 - [Install the Continue VSCode extension](https://marketplace.visualstudio.com/items?itemName=Continue.continue)
 
 After you are able to use both independently, we will glue them together with Codestral Mamba for VSCode.
